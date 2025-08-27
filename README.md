@@ -32,4 +32,15 @@ It takes user input in English and translates it into multiple languages instant
   
   Tamil: வணக்கம், நீங்கள் எப்படி இருக்கிறீர்கள்?
 
+  ## ⚙️ How to Run
+1. Install Python (>=3.7).  
+2. Install the required library:  
+   ```bash
+   pip install googletrans==4.0.0-rc1
+3. Run the script:
+   ```bash
+   python translator.py
+4. Enter text in English → get translations in multiple languages.   
+   
+
   
